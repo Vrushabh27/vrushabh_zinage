@@ -1,2 +1,2 @@
-# http://www.cs.umd.edu/~trisha/
-Trisha Mittal - Personal Website
+# https://vrushabh27.github.io/vrushabh_zinage/
+Vrushabh Zinage - Personal Website
